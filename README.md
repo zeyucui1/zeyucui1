@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate web developer from Australia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyucui1&label=Profile%20views&color=0e75b6&style=flat" alt="zeyucui1" /> </p>
 
