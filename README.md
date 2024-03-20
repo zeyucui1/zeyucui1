@@ -1,4 +1,4 @@
-![MasterHead]
+
 <h1 align="center">Hi 👋, I'm Zeyu Cui</h1>
 <h3 align="center">A passionate web developer from Australia</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"/>
